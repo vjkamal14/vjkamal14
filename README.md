@@ -43,6 +43,14 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask,nodejs" />
 </p>
 
+<h2 align="center">🚀 Tech Stack</h2>
+
+<p align="center">
+<marquee>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,sklearn,docker,aws,linux,git,github,vscode,fastapi,flask,html,css,js" />
+</marquee>
+</p>
+
 ---
 
 # 📊 GitHub Stats
