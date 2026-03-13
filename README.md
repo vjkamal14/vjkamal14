@@ -47,7 +47,7 @@
 
 <p align="center">
 <marquee>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,linux,git,github,vscode,fastapi,flask,html,css,js,opencv,numpy,pandas,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,linux,git,github,vscode,fastapi,flask,html,css,js,opencv,sklearn" />
 </marquee>
 </p>
 
