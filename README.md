@@ -21,21 +21,27 @@
 
 ---
 
-## 🚀 Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
-<h3 align="center">AI / ML</h3>
+<h3 align="center">🤖 AI / Machine Learning</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,anaconda" />
 </p>
 
-<h3 align="center">Deployment & Tools</h3>
+<h3 align="center">📊 Data Science</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn" />
+</p>
+
+<h3 align="center">⚙️ Deployment & Tools</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
 </p>
 
-<h3 align="center">Web</h3>
+<h3 align="center">🌐 Web & APIs</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask,nodejs" />
 </p>
 
 
