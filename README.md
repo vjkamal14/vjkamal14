@@ -28,7 +28,7 @@
 </p>
 
 <h3>AI / ML</h3>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,opencv,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda" />
 
 <h3>Deployment & Tools</h3>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
