@@ -31,10 +31,6 @@
 </p>
 
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,numpy,pandas,sklearn,docker,aws,git,github,linux,vscode,fastapi,flask,html,css3,js&titles=true" />
-</p>
-
 ---
 
 # 📊 GitHub Stats
