@@ -1,111 +1,83 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">AI Engineer | Machine Learning Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vjkamal14&label=Profile%20views&color=0e75b6&style=flat" alt="vjkamal14" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;Open+Source+Contributor&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔭 I’m currently working on **AI & Machine Learning Projects**
+🔭 Currently working on **AI & Machine Learning Projects**
 
-🌱 I’m currently learning **Generative AI, MLOps, and Full Stack Development**
+🌱 Learning **Generative AI, MLOps, and Full Stack Development**
 
-👯 I’m looking to collaborate on **Open Source AI / Web Development Projects**
+👯 Looking to collaborate on **Open Source AI Projects**
 
-💬 Ask me about **Python, Machine Learning, Git, and AI Tools**
+💬 Ask me about **Python, Machine Learning, Deep Learning**
 
 ⚡ Fun fact: **I love building AI systems that solve real-world problems**
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+# 🚀 Tech Stack
 
-<h3 align="center">🤖 AI / Machine Learning</h3>
+### 🧠 Artificial Intelligence
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-<h3 align="center">📊 Data Science</h3>
+### 📊 Machine Learning & Data Science
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,matplotlib,seaborn" />
 </p>
 
-<h3 align="center">⚙️ Deployment & Tools</h3>
+### ⚙️ MLOps & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode" />
 </p>
 
-<h3 align="center">🌐 Web & APIs</h3>
+### 🌐 Web & APIs
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask,nodejs" />
 </p>
 
-
-
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vjkamal14&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vjkamal14&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjkamal14&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=vjkamal14&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=vjkamal14&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 📫 Connect With Me
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjkamal14&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔬 CliniScan – Lung Abnormality Detection
-AI-powered system that detects **17 lung abnormalities from Chest X-rays using YOLOv8.**
-
-🔗 https://github.com/vjkamal14/CliniScan-Lung-Abnormality-Detection
-
----
-
-## 🧠 Currently Learning
-
-- Generative AI
-- MLOps
-- Advanced Deep Learning
-- Full Stack Development
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/kamal-07-t" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/kamal-07-t">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:vjkamal14@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://github.com/vjkamal14" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<a href="https://github.com/vjkamal14">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
 
 ---
 
-⭐ **If you like my projects, feel free to star them!**
+⭐ **Check out my repositories and let's build AI together!**
