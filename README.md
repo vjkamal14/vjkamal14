@@ -30,6 +30,18 @@
 </marquee>
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,sklearn,docker,aws,git,linux,vscode" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,sklearn,docker,aws,git,github,linux,vscode,fastapi,flask,html,css,js&perline=9" />
+</p>
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,numpy,pandas,sklearn,docker,aws,git,github,linux,vscode,fastapi,flask,html,css,js&titles=true" />
+</p>
+
 ---
 
 # 📊 GitHub Stats
