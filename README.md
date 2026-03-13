@@ -30,6 +30,16 @@
 </marquee>
 </p>
 
+<h2 align="center">🚀 AI & ML Tech Stack</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/vjkamal14/assets/main/neural-network-banner.gif" width="700"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,scikitlearn,docker,aws,git,github,linux,vscode,fastapi,flask,html,css,js" />
+</p>
+
 
 ---
 
