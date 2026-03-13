@@ -27,6 +27,15 @@
 <img src="https://skillicons.dev/icons?i=python,git,github,pytorch,tensorflow,opencv,linux,vscode,html,css,js" />
 </p>
 
+<h3>AI / ML</h3>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,opencv,anaconda" />
+
+<h3>Deployment & Tools</h3>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
+
+<h3>Web</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask" />
+
 ---
 
 ## 📊 GitHub Stats
