@@ -2,7 +2,7 @@
 <h3 align="center">Building smart AI systems ⚡ | Python & ML lover 🧠 | Open Source explorer 🌐</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;Open+Source+Explorer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;Open+Source+Explorer&center=true&width=500&height=50&color=00FFFF">
 </p>
 
 ---
