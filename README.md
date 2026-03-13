@@ -21,33 +21,12 @@
 
 ---
 
-# 🚀 Tech Stack
-
-### 🧠 Artificial Intelligence
-<p align="">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
-
-### 📊 Machine Learning & Data Science
-<p align="">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,matplotlib,seaborn" />
-</p>
-
-### ⚙️ MLOps & Tools
-<p align="">
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode" />
-</p>
-
-### 🌐 Web & APIs
-<p align="">
-<img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask,nodejs" />
-</p>
 
 <h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
 <marquee>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,linux,git,github,vscode,fastapi,flask,html,css,js,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,linux,git,github,vscode,fastapi,flask,html,css,js" />
 </marquee>
 </p>
 
