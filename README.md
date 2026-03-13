@@ -24,10 +24,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,pytorch,tensorflow,opencv,linux,vscode,html,css,js" />
-</p>
-
-<h3>AI / ML</h3>
+  <h3>AI / ML</h3>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda" />
 
 <h3>Deployment & Tools</h3>
@@ -35,6 +32,9 @@
 
 <h3>Web</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask" />
+</p>
+
+
 
 ---
 
