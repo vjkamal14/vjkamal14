@@ -45,8 +45,7 @@
 
 # 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vjkamal14)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vjkamal14&theme=darcula" alt="GitHub Streak" /></a>
 ---
 
 # 📫 Connect With Me
