@@ -45,11 +45,8 @@
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <a href="https://github.com/vjkamal14">
-    <img src="https://streak-stats.demolab.com?user=vjkamal14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ---
 
 # 📫 Connect With Me
