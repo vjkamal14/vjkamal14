@@ -45,9 +45,7 @@
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vjkamal14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vjkamal14" alt="GitHub Streak" /></a>
 
 ---
 
